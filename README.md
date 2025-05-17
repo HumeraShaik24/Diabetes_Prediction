@@ -91,8 +91,8 @@ This project performs **exploratory data analysis (EDA)** on a diabetes dataset 
 📱 **Phone**: +91 7382273550  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/humera-shaik-dataanalyst/)
-) | 📄 [Resume](Diabetes_Prediction
-/HS DA 45.pdf
+) | 📄 [View My Resume](HS%20DA%2045.pdf)
+
 )
 
 ---
