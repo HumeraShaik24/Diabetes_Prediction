@@ -90,7 +90,9 @@ This project performs **exploratory data analysis (EDA)** on a diabetes dataset 
 📧 **Email**: humerah610@gmail.com  
 📱 **Phone**: +91 7382273550  
 
-🔗 [LinkedIn](#) | 📄 [Resume](#)
+🔗 [LinkedIn](www.linkedin.com/in/
+humera-shaik-dataanalyst
+) | 📄 [Resume]()
 
 ---
 
